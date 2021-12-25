@@ -8,5 +8,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: psf/black@stable
-      with:
-        version: "21.12b0"
+        with:
+          version: "21.12b0"
