@@ -9,6 +9,19 @@ from .analyzer import analyze
 
 @api_view(("POST",))
 def get_analysis(request: Request) -> Response:
+    """Analyzes an essay on how many words match our Korean class's vocabulary.
+
+    Param:
+        request (Request): A request with a body containing Korean text.
+
+    Returns:
+        Response:
+            Status: 200
+            A JSON object with three keys:
+                exact (string[]): Exact matches
+                almost (string[]): Almost exact matches
+                unmatched (string[]): Remaining unmatched words
+    """
     with open(
         os.path.join(settings.BASE_DIR, "wordchecker", "hangeul.txt"),
         mode="r",
