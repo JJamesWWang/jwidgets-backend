@@ -2,4 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  web: python manage.py migrate && gunicorn jwidgets.wsgi
+  web: python manage.py makemigrations && python manage.py migrate && gunicorn jwidgets.wsgi
