@@ -34,6 +34,8 @@ def parse_word(word: str) -> tuple[str, str]:
     korean = (
         korean.replace("(가)", "")
         .replace("(이)", "")
+        .replace("(를)", "")
+        .replace("(을)", "")
         .replace("(", "")
         .replace(")", "")
         .replace("w", "")
