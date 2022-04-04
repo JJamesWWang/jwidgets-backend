@@ -439,13 +439,14 @@
 원고부터 썼다~The first thing I fid was to write the manuscript
 일을 한 덕분에~thanks to having done the work
 11시쯤 해서~when it got to about eleven 'o clock
-서두르 - , 서둘러~rush; rush about
+서둘러~rush; rush about
 강남~Gangnam
 군데~counter / classifier for places
 완전히~completely; entirely; totally
 녹초(가) 되 -~get exhausted; become a tired wreck; be fatigued
 전화(가) 걸려 왔다 -~A call came in
-쳐들어오 - , 쳐들어가 -~barge in on; invade
+쳐들어오 -~barge in on; invade
+쳐들어가 -~barge in on; invade
 치우 -~clear it up / away; get rid of it
 제대로~properly; as it should be done
 엉망~mess
@@ -456,7 +457,8 @@
 오븐~oven
 속에다~into the inside
 처넣 -~jam in; shove in
-냉동(을) 하 - / 시키 -~freeze sth; make it freese
+냉동(을) 하 -~freeze sth; make it freese
+냉동(을) 시키 -~freeze sth; make it freese
 들리 -~be / get held (up) in the hands
 들려 있었다~were in a state resulting from being held; were held
 서양~the West
@@ -466,8 +468,8 @@
 벼락치기~last-minute cramming
 조숙하 -~be precocious
 짐~luggage; baggage; burden
-주w-~pick a small object up between one's fingers
-나 - ㄹ -~fly
+주-~pick a small object up between one's fingers
+날 -~fly
 날아가 -~fly away
 전부~in its entirety; all of it / them; the whole thing
 고래~whale
@@ -501,7 +503,7 @@
 갖다 놓 -~bring (and place) sth
 접 -~fold sth
 사업~business, enterprise
-Noun에 비해서~Compared to NOUN
+에 비해서~Compared to NOUN
 발음~pronunciation
 시~poem; poetry
 시인~poet
@@ -532,14 +534,14 @@ Noun에 비해서~Compared to NOUN
 녹 -~melt
 가벼w-~be light (in weight)
 낭비~waste
-~ 한테 속 -~be / get fooled, deceived, taken in by sb
+한테 속 -~be / get fooled, deceived, taken in by sb
 결석(을) 하 -~be absent
 한번만 봐 주세요~Please give me a break just this one time
 묻 -~bury sth
 주인공~hero, heroine, main character, protagonist
 식탁~dining table
 질기 -~be tough, chewy
-터 - ㄹ -~shake sth off or out
+털 -~shake sth off or out
 오랫동안~for a long time
 배신~betrayal, treachery
 가만히~quietly
@@ -549,7 +551,7 @@ Noun에 비해서~Compared to NOUN
 숨(을) 들이쉬 -~breathe in
 숨(을) 내쉬 -~breathe out
 가라앉 -~sink down; go to the bottom; subside; abate; quiet down
-더 - ㄹ -~subtract; deduct; lessen; mitigate
+덜 -~subtract; deduct; lessen; mitigate
 쓰러지 -~collapsed; topple; sink to the ground; fall down
 밤~chestnut
 밤색~chestnut color, brown
