@@ -11,7 +11,11 @@ def analyze(words: list[str], text: str) -> tuple[list, list, list]:
         start = subtext.find(korean[0], 0, len(subtext))
         while start != -1:
             i = 0
-            while korean[i] == subtext[start + i]:
+            while (
+                i < len(korean)
+                and start + i < len(subtext)
+                and korean[i] == subtext[start + i]
+            ):
                 i += 1
             if i > len(korean) / 2:
                 j = i + 1
@@ -32,6 +36,7 @@ def parse_word(word: str) -> tuple[str, str]:
         .replace(")", "")
         .replace("w", "")
         .replace("-", "")
+        .replace("ㄹ", "")
         .strip()
     )
     return korean, english.strip()
