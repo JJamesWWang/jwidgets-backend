@@ -32,8 +32,8 @@ def analyze(words: list[str], text: str) -> tuple[list, list, list]:
 def parse_word(word: str) -> tuple[str, str]:
     korean, english = word.split("~")
     korean = (
-        korean.replace("(가)")
-        .replace("(이)")
+        korean.replace("(가)", "")
+        .replace("(이)", "")
         .replace("(", "")
         .replace(")", "")
         .replace("w", "")
