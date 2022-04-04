@@ -19,7 +19,7 @@ def analyze(words: list[str], text: str) -> tuple[list, list, list]:
                 i += 1
             if i > (len(korean) - korean.count(" ")) / 2:
                 j = i + 1
-                while not str.isspace(subtext[start + j]):
+                while start + j < len(subtext) and not str.isspace(subtext[start + j]):
                     j += 1
                 almost.append(objectify(korean, english, subtext[start : start + j]))
                 break
