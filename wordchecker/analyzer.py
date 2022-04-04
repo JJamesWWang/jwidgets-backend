@@ -17,7 +17,7 @@ def analyze(words: list[str], text: str) -> tuple[list, list, list]:
                 and korean[i] == subtext[start + i]
             ):
                 i += 1
-            if i > len(korean) / 2:
+            if i > (len(korean) - korean.count(" ")) / 2:
                 j = i + 1
                 while not str.isspace(subtext[start + j]):
                     j += 1
@@ -32,7 +32,9 @@ def analyze(words: list[str], text: str) -> tuple[list, list, list]:
 def parse_word(word: str) -> tuple[str, str]:
     korean, english = word.split("~")
     korean = (
-        korean.replace("(", "")
+        korean.replace("(가)")
+        .replace("(이)")
+        .replace("(", "")
         .replace(")", "")
         .replace("w", "")
         .replace("-", "")
