@@ -564,3 +564,44 @@
 보물~treasure, highly prized article
 바위~rock, stone
 되 -~be thick, hard
+감동~impression, excitement, emotion
+결정되다~to be decided
+고구려~Goguryeo
+고집~stubbornness, obstinacy
+공주~princess
+관~coffin
+국민~people of the country
+궁전~palace, royal residence
+그대~you, thou
+그러자~and then, when it's done, as soon as (something) happens/is done
+글읽기~reading and studying (classics)
+놀리다~to tease
+눈물 흘리다~to shed tears
+달려오다~to come running
+동화책~children's storybook
+떨어진~worn-out
+맞다~to get hit
+모으다~to gather, to collect
+바보~idiot, stupid person
+벼슬~government position, official rank
+사윗감~prospective son-in-law
+사정~circumstances, the state of things
+생사~life and death
+소식~news
+슬프게~sadly
+시집보내다~to marry off (woman)
+신랑~groom
+싸우다~to fight
+옮기다~to move to
+움직이다~to move
+자꾸~repeatedly, frequently
+적~enemy
+전쟁~war
+조카~nephew and niece
+쫓아 내다~to drive off
+쳐들어오다~to invade, to attack
+패물~jewelry
+해마다~every year
+매년~every year
+화나다~to be mad, to be angry
+화살~arrow
